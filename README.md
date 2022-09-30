@@ -3,7 +3,7 @@ My first Data analysis project on Covid 19 pandemic inspired by #30daysoflearnin
 # Project Overview
 Covid 19 is a communicable disease that is caused by a novel corona virus. The world has never been the same since it was declared a pandemic. This project consists of a dashboard and analysis of scraped data. This report is intended to give a summarized information like total confirmed cases, total death cases and total death rate amongst others.
 ---
-![Dshboard]()
+![Dshboard](Covid 19 Dashboard.PNG)
 ---
 ![Covid 19 vaccine](png-medicine-glass-vial-doctor-s-hand-mockup.jpg)
 # Data Sourcing
