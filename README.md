@@ -3,6 +3,8 @@ My first Data analysis project on Covid 19 pandemic inspired by #30daysoflearnin
 # Project Overview
 Covid 19 is a communicable disease that is caused by a novel corona virus. The world has never been the same since it was declared a pandemic. This project consists of a dashboard and analysis of scraped data. This report is intended to give a summarized information like total confirmed cases, total death cases and total death rate amongst others.
 ---
+![Dshboard]()
+---
 ![Covid 19 vaccine](png-medicine-glass-vial-doctor-s-hand-mockup.jpg)
 # Data Sourcing
 The data sets used was scraped from a public repository that gives daily updates on Covid 19 by the Center for Science and Systems Engineering (CSSE) at John Hopkins. https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
